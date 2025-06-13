@@ -14,6 +14,8 @@
 ## 🛠️ Skills
 
 ![Data Science](https://img.shields.io/badge/Data%20Science-017ACC?style=for-the-badge&logo=python&logoColor=white)
+![Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-8A2BE2?style=for-the-badge&logo=brain&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![Automation Anywhere](https://img.shields.io/badge/Automation%20Anywhere-FF5733?style=for-the-badge&logo=automation-anywhere&logoColor=white)
 ![RPA](https://img.shields.io/badge/Robotic%20Process%20Automation-0052CC?style=for-the-badge&logo=robotframework&logoColor=white)
