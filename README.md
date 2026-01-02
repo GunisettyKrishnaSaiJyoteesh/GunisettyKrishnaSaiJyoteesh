@@ -60,10 +60,10 @@
 ## 💬 About Me
 
 I’m a final-year Computer Science & Engineering (Data Science) student with a CGPA of 9.44 at Anil Neerukonda Institute of Technology & Sciences.  
-- 🔭 Currently interning as a **Machine Learning** engineer at **Feynn Labs**  
+- 🤖 Currently intern at Aspire Infolabs as "SDE Intern"
+- 🔭 Previously interned as a **Machine Learning** engineer at **Feynn Labs**  
 - 🤖 Previously developed RPA bots at **Edumoon**  
-- 📚 Passionate about applying 3D‑CNNs to medical imaging, real‑time gesture recognition, and EEG/EMG signal analysis  
-- 🎓 Solved over 200 LeetCode problems to sharpen algorithms & data structures skills  
+- 🎓 Solved over 500 LeetCode problems to sharpen algorithms & data structures skills  
 
 ---
 
