@@ -4,7 +4,7 @@
   <h1>👋 Hi, I’m Gunisetty Krishna Sai Jyoteesh</h1>
   <p>Welcome to my Data Science & RPA World! 🌏</p>
   
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/gunisetty-krishna-sai-jyoteesh/))
   [![WhatsApp](https://img.shields.io/badge/WhatsApp-%2377B255.svg?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/917013393489)
   [![Email](https://img.shields.io/badge/Email-gunisettykrishnasaijyoteesh@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gunisettykrishnasaijyoteesh@gmail.com)
 </div>
