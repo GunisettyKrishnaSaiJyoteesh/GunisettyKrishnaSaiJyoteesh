@@ -1,7 +1,7 @@
 <!-- README.md · github.com/GunisettyKrishnaSaiJyoteesh -->
 
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Krishna%20Sai%20Jyoteesh&fontSize=46&fontColor=ffffff&fontAlignY=32&animation=fadeIn&desc=AI%20%C2%B7%20Machine%20Learning%20%C2%B7%20Computer%20Vision%20%C2%B7%20NLP%20%26%20Speech&descAlignY=52&descSize=16" alt="Gunisetty Krishna Sai Jyoteesh" />
+  <h1>Gunisetty Krishna Sai Jyoteesh</h1>
 </div>
 
 <div align="center">
